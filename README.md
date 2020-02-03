@@ -1,5 +1,7 @@
 # mercury-php-microservice
 
-#Installation
+## Installation
+```
 composer install
 vendor/bin/rr get
+```
