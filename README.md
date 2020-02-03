@@ -9,3 +9,8 @@ vendor/bin/rr get
 ```
 cp .rr.yml.default .rr.yml
 ```
+## Run
+```
+./rr serve -v -d
+http://localhost:8080/
+```
