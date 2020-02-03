@@ -1,0 +1,6 @@
+/composer.lock
+/vendor/*
+/rr
+/.rr.yml
+/.idea/*
+/.idea/.gitignore
